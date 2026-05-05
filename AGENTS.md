@@ -1,5 +1,5 @@
 ## Conversational Style
-- Keep answers short and consice
+- Keep answers short and concise
 - Be kind but direct
 
 ## Behavior
