@@ -34,7 +34,10 @@
       "git rebase *": "deny",
       "git reset *": "deny",
       "git restore *": "deny",
-      "git stash *": "deny"
+      "git stash *": "deny",
+
+      // NEOVIM ALLOW
+      "nvim --version": "allow"
     },
 
     "edit": "allow",

@@ -36,7 +36,7 @@ skill-name/
 
 ## SKILL.md Template
 
-```md
+```markdown
 ---
 name: skill-name
 description: Brief description of capability. Use when [specific triggers].
