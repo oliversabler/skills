@@ -6,6 +6,10 @@
     "bash": {
       "*": "ask",
 
+      // DOTNET ALLOW
+      "dotnet build *": "allow",
+      "dotnet test *": "allow",
+
       // GIT ALLOW
       "git branch": "allow",
       "git branch --show-current": "allow",
@@ -37,7 +41,10 @@
       "git stash *": "deny",
 
       // NEOVIM ALLOW
-      "nvim --version": "allow"
+      "nvim --version": "allow",
+
+      // UNIX ALLOW
+      "ls": "allow"
     },
 
     "edit": "allow",
