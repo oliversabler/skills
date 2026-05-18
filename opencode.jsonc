@@ -13,12 +13,9 @@
       // GIT ALLOW
       "git branch": "allow",
       "git branch --show-current": "allow",
-      "git diff": "allow",
-      "git diff -- *": "allow",
+      "git diff *": "allow",
       "git fetch": "allow",
-      "git log": "allow",
-      "git log --oneline": "allow",
-      "git log --stat": "allow",
+      "git log *": "allow",
       "git show": "allow",
       "git status": "allow",
 
